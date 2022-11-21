@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0 50px;
+    align-items: center;
+}
+
+header {
+    text-align: center;
+}
+
+button{
+    background-color: #024eac;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.content-container{
+    border-style: dashed;
+    width: 500px;
+    margin: 0 auto;
+}
